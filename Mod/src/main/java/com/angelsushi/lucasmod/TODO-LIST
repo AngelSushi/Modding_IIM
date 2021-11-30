@@ -1,0 +1,17 @@
+
+- Des menus déroulants qui déroule vraiment (pas de changement de page)
+- Enlever le replacement du curseur à chaque changement de pages
+
+
+
+
+- Les grades chef/officier/membre/recrue avec les symboles de base de faction dans la liste des joueurs /f f - Fait
+- Le coffre pays doit être affiché uniquement dans son propre /f f et la commande /chest est buggé (ça ne l'etait pas avant et c'est urgent) - fait
+- Quand on clique sur déclarer la guerre ça déclenche un assaut, ce qui n'était pas demandé (cela doit juste mettre ennemi) - fait
+- Quand on clique sur coffre pays cela doit faire /chest <nom du pays> -fait
+- Afficher la liste des pays quand on fait /f-F list
+- La page de guerre dans le /f f (n'affiche pas les guerres)
+- Afficher l'interface d'assaut pour ceux qui rejoignent l'assaut
+- Quand un assaut est stoppé (/f assault stop) l'interface reste et est bloqué au temps ou elle a été faite (ducoup ça fait 3h qu'elle est toujours sur mon ecran)
+- L'argent dans l'historique de la banque n'est pas bien horodaté (problème avec le temps) - pb de calcul
+- Ajuste l'interface assaut pour les différentes tailles d'écran In-Game
